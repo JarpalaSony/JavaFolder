@@ -19,6 +19,7 @@ public class Test
 		System.out.println(3<<30);
 		System.out.println(33>>2);
 		System.out.println(-2>>2);
+		System.out.println("SOme change has been occured");
 		
 	}
 }
