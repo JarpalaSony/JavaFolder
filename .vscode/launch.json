@@ -1,0 +1,222 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Attach to Remote Program",
+            "request": "attach",
+            "hostName": "<The host name or ip address of remote debuggee>",
+            "port": "<debug port of remote debuggee>"
+        },
+        {
+            "type": "java",
+            "name": "polymor",
+            "request": "launch",
+            "mainClass": "pac.polymor",
+            "projectName": "java_47af487c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "B",
+            "request": "launch",
+            "mainClass": "B",
+            "projectName": "java_47af487c"
+        },
+        {
+            "type": "java",
+            "name": "CLL1",
+            "request": "launch",
+            "mainClass": "CLL1",
+            "projectName": "java_47af487c"
+        },
+        {
+            "type": "java",
+            "name": "DLL1",
+            "request": "launch",
+            "mainClass": "DLL1",
+            "projectName": "java_47af487c"
+        },
+        {
+            "type": "java",
+            "name": "DeleteDLL1",
+            "request": "launch",
+            "mainClass": "DeleteDLL1",
+            "projectName": "java_47af487c"
+        },
+        {
+            "type": "java",
+            "name": "InsertIndex",
+            "request": "launch",
+            "mainClass": "InsertIndex",
+            "projectName": "java_47af487c"
+        },
+        {
+            "type": "java",
+            "name": "LL1",
+            "request": "launch",
+            "mainClass": "LL1",
+            "projectName": "java_47af487c"
+        },
+        {
+            "type": "java",
+            "name": "Linked",
+            "request": "launch",
+            "mainClass": "Linked",
+            "projectName": "java_47af487c"
+        },
+        {
+            "type": "java",
+            "name": "Node1",
+            "request": "launch",
+            "mainClass": "Node1",
+            "projectName": "java_47af487c"
+        },
+        {
+            "type": "java",
+            "name": "PUBLIC",
+            "request": "launch",
+            "mainClass": "PUBLIC",
+            "projectName": "java_47af487c"
+        },
+        {
+            "type": "java",
+            "name": "de",
+            "request": "launch",
+            "mainClass": "de",
+            "projectName": "java_47af487c"
+        },
+        {
+            "type": "java",
+            "name": "importA",
+            "request": "launch",
+            "mainClass": "importA",
+            "projectName": "java_47af487c"
+        },
+        {
+            "type": "java",
+            "name": "insert",
+            "request": "launch",
+            "mainClass": "insert",
+            "projectName": "java_47af487c"
+        },
+        {
+            "type": "java",
+            "name": "insertpos",
+            "request": "launch",
+            "mainClass": "insertpos",
+            "projectName": "java_47af487c"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "java_47af487c"
+        },
+        {
+            "type": "java",
+            "name": "per",
+            "request": "launch",
+            "mainClass": "per",
+            "projectName": "java_47af487c"
+        },
+        {
+            "type": "java",
+            "name": "permu",
+            "request": "launch",
+            "mainClass": "permu",
+            "projectName": "java_47af487c"
+        },
+        {
+            "type": "java",
+            "name": "printAll",
+            "request": "launch",
+            "mainClass": "printAll",
+            "projectName": "java_47af487c"
+        },
+        {
+            "type": "java",
+            "name": "printName",
+            "request": "launch",
+            "mainClass": "printName",
+            "projectName": "java_47af487c"
+        },
+        {
+            "type": "java",
+            "name": "recursion",
+            "request": "launch",
+            "mainClass": "recursion",
+            "projectName": "java_47af487c"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "java_47af487c"
+        },
+        {
+            "type": "java",
+            "name": "testpac",
+            "request": "launch",
+            "mainClass": "testpac",
+            "projectName": "java_47af487c"
+        },
+        {
+            "type": "java",
+            "name": "testpac2",
+            "request": "launch",
+            "mainClass": "testpac2",
+            "projectName": "java_47af487c"
+        },
+        {
+            "type": "java",
+            "name": "testpac3",
+            "request": "launch",
+            "mainClass": "testpac3",
+            "projectName": "java_47af487c"
+        },
+        {
+            "type": "java",
+            "name": "testpack4",
+            "request": "launch",
+            "mainClass": "testpack4",
+            "projectName": "java_47af487c"
+        }
+    ]
+}
